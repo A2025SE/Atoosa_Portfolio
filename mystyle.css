@@ -248,7 +248,7 @@ nav ul li a:hover::after{
     border-radius: 10px;
     position: relative;
     overflow: hidden;
-    margin-top: -45px;
+    margin-top: 45px;
 }
 
 .work img{
